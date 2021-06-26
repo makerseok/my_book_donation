@@ -1,0 +1,6 @@
+*.csv
+*.npy
+*.h5
+__pycache__/
+.idea/
+.vscode/
